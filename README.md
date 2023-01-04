@@ -1,4 +1,17 @@
 Decademia [Decademia Website](https://www.decademia.org/)
+*reetings all,*
+
+## **What is Decademia?**
+
+Decademia is a marketplace for funding, collaborating and transacting early-stage scientific research projects. Researchers get to present their research projects, find investors and collaborators and advance their research projects. Investors and funds get exposure to new domain-specific research projects looking for funding for their research goals.
+
+Decademia platform infrastructure is built on Polygon enabling researchers and investors full access to the DeFi ecosystem. It's novel approach with the intellectual property NFT (IP-NFT) enables anybody to share ownership on research projects as well as future outcomes such as IP, royalty rights, data and much more.
+
+**The problem we’re solving is :**
+Early-stage scientific research suffers from complex legal agreements, missing transparency, and reduced investments. It takes a researcher years to get an investment. As a result, many promising research projects are abandoned before they get off the ground. Academia has termed the problem of missing funds between fundamental research and clinical trial "the valley of death".
+Decademia aims to solve the "valley of death" by standardising legal agreements and creating public and liquid markets for funding early-stage research projects.
+In essence.
+Via Decademia, researchers can offer different legal agreements for assets originating from their research (IP, royalty rights, etc.) and collect the funding they need. Investors can easily fund research and provide the funds in an instant given the integration of cryptocurrencies.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
